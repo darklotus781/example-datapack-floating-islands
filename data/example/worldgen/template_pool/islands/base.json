@@ -1,0 +1,15 @@
+{
+    "name": "example:islands/base",
+    "fallback": "example:islands/base",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "example:islands/base/island_base_1",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}
